@@ -36,11 +36,19 @@ In order to validate this challenge you will have to make a pull request with yo
 NOTE: In order for you to understand how computers exchange data over a network (LAN or WAN), you must be able to grasp the TCP/IP Model. Therefore, the main purpose of this briefing is for you to correctly conceptualize TCP/IP so that you can explain how it works and what are its key features (TCP segment structure, Connection establishment, Connection termination, ...).
 
 Complementary Resources
+
 Wiki page: [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
+
 Wiki page: [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+
 Wiki page: [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+
 Video: TCP Fundamentals Part 1 - [Wireshark Talks at Sharkfest](https://www.youtube.com/watch?v=xdQ9sgpkrX8)
+
 Video: TCP Fundamentals Part 2 - [Wireshark Talks at Sharkfest](https://www.youtube.com/watch?v=NdvWI6RH1eo)
+
 Documentation: [Wireshark documentation](https://www.wireshark.org/docs/)
+
 Notes: [Wireshark Cheat Sheet](https://cdn.comparitech.com/wp-content/uploads/2019/06/Wireshark-Cheat-Sheet-1.jpg)
+
 Video: [Wireshark and TCP](https://www.youtube.com/watch?v=HCHFX5O1IaQ&list=PLMLm7-g0V0keOCLWqodqXn56UfcdA0D_Q) 
