@@ -22,7 +22,7 @@ You have been asked to prepare for the interview in two ways, the first one bein
 - Provide three examples of well-know port numbers and tell to which Application layer protocol they refer to.
 - Explain the concept of TCP packets and how they are build over the layer flow.
 
-#### Your second task is to analyse a suspicious piece of network traffic captured in the following .pcap file. To visualize it you should use Wireshark, a network protocol analyzer, and answer the questions below to discover what suspicious activity lie within.
+#### Your second task is to analyse a suspicious piece of network traffic captured in the following .pcap [file](https://github.com/markofu/pcaps/blob/master/HoneyNet/0110/attack-trace.pcap_.gz). To visualize it you should use Wireshark, a network protocol analyzer, and answer the questions below to discover what suspicious activity lie within.
 
 - Which systems (i.e. IP addresses) are involved?
 - What can you find out about the attacking host (e.g., where is it located)?
@@ -35,7 +35,7 @@ In order to validate this challenge you will have to make a pull request with yo
 
 NOTE: In order for you to understand how computers exchange data over a network (LAN or WAN), you must be able to grasp the TCP/IP Model. Therefore, the main purpose of this briefing is for you to correctly conceptualize TCP/IP so that you can explain how it works and what are its key features (TCP segment structure, Connection establishment, Connection termination, ...).
 
-Complementary Resources
+##### Complementary Resources:
 
 Wiki page: [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
 
